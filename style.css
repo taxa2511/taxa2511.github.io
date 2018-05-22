@@ -1,0 +1,30 @@
+body {
+    width: 1200px;
+	margin: auto;
+	padding: 50px;
+    }  
+
+.a1{color:crimson; font:normal 3em monotype corsiva; text-shadow: 2px 2px 4px;}
+
+.a2{color:blue; font: normal; text-align: center;}
+
+.a3{text-align: center;}
+
+.a4{text-align: right; font:normal 3em monotype corsiva; color: darkgreen;}
+
+.a5{text-align: right;}
+
+.a6{text-align: right;}
+
+.a7{
+	padding-left: 15px;
+}
+
+.a8{
+    font-family: verdana;
+    padding-left: 38px;
+    padding-right: 15px;
+}
+.a9{
+    padding-left: 40px;
+}
